@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fe843a023b878b1043fee5ac24e45a20" label="Vendor Master Approvers " max_length="40" name="x_sogs_vendor_requ_vendor_master_approvers" type="collection">
+        <element choice="1" label="Approval Type " max_length="100" name="approval_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Finance" value="Finance"/>
+                <element inactive_on_update="false" label="HR" value="HR"/>
+                <element inactive_on_update="false" label="Procurement" value="Procurement"/>
+            </choice>
+        </element>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Backup Approver" max_length="32" name="backup_approver" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Region " max_length="32" name="region" type="string"/>
+        <element label="Primary Approver" mandatory="true" max_length="32" name="primary_approver" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <index name="index">
+            <element name="region"/>
+        </index>
+        <index name="index2">
+            <element name="backup_approver"/>
+        </index>
+        <index name="index3">
+            <element name="primary_approver"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4845035a3bc70f1043fee5ac24e45adc" label="Vendor Request " max_length="40" name="x_sogs_vendor_requ_vendor_request" type="collection">
+        <element choice="1" label="Approval Requirement " max_length="100" name="approval_requirement" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Procurement &amp; Finance &amp; HR" value="Procurement &amp; Finance &amp; HR"/>
+                <element inactive_on_update="false" label="Procurement &amp; Finance" value="Procurement &amp; Finance"/>
+                <element inactive_on_update="false" label="Procurement &amp; HR" value="Procurement &amp; HR"/>
+                <element inactive_on_update="false" label="No Approval" value="No Approval"/>
+                <element inactive_on_update="false" label="Finance" value="Finance"/>
+                <element inactive_on_update="false" label="Procurement" value="Procurement"/>
+            </choice>
+        </element>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Vendor Request" max_length="100" name="vendor_request" type="string"/>
+    </element>
+</database>

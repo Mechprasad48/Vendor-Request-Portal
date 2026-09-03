@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="77b8ae8e3bc38b1043fee5ac24e45a66" sys_domain="global" table="x_sogs_vendor_requ_vendor_account" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_account_group</element>
+            <position>0</position>
+            <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+            <sys_created_on>2026-09-02 09:45:46</sys_created_on>
+            <sys_id>ffb826423b078b1043fee5ac24e45a2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sogs_vendor_requ_vendor_account" sys_domain="global" view="Default view">77b8ae8e3bc38b1043fee5ac24e45a66</sys_ui_section>
+            <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+            <sys_updated_on>2026-09-02 09:45:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_sogs_vendor_requ_vendor_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+            <sys_created_on>2026-09-02 09:45:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>77b8ae8e3bc38b1043fee5ac24e45a66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_sogs_vendor_requ_vendor_account</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
+            <sys_update_name>sys_ui_section_77b8ae8e3bc38b1043fee5ac24e45a66</sys_update_name>
+            <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+            <sys_updated_on>2026-09-02 09:45:46</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="How did you find the Independent Contract worker?">1a3040a63b074f1043fee5ac24e45a0e</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-03 10:47:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1180c8a63b074f1043fee5ac24e45ad1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The worker is a former Independent Contractor</sys_name>
+        <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
+        <sys_update_name>question_choice_1180c8a63b074f1043fee5ac24e45ad1</sys_update_name>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-03 10:47:45</sys_updated_on>
+        <text>The worker is a former Independent Contractor</text>
+        <value>The worker is a former Independent Contractor</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=1180c8a63b074f1043fee5ac24e45ad1"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>1180c8a63b074f1043fee5ac24e45ad1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-03 10:47:51</sys_created_on>
+        <sys_id>be80c8a63b074f1043fee5ac24e45ad9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-03 10:47:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>1180c8a63b074f1043fee5ac24e45ad1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-03 10:47:51</sys_created_on>
+        <sys_id>3680c8a63b074f1043fee5ac24e45ad9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-03 10:47:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

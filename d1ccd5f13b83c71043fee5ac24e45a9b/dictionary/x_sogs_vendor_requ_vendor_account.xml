@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e708a6ce3bc38b1043fee5ac24e45a31" label="Vendor Account " max_length="40" name="x_sogs_vendor_requ_vendor_account" type="collection">
+        <element label="Vendor Account Group" max_length="100" name="vendor_account_group" type="string"/>
+    </element>
+</database>

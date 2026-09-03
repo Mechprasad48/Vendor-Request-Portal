@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Vendor Master Data Request">93da03d63b0b0f1043fee5ac24e45a6b</sc_cat_item>
+        <sc_category display_value="Financial">eff26ed3db463b00d06938923996195e</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-03 07:06:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>39cd4b523b4b0f1043fee5ac24e45a40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial.Vendor Master Data Request</sys_name>
+        <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
+        <sys_update_name>sc_cat_item_category_39cd4b523b4b0f1043fee5ac24e45a40</sys_update_name>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-03 07:06:02</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

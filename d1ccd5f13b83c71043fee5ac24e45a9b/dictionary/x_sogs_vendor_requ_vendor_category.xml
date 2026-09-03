@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a94326823bc38b1043fee5ac24e45ae0" label="Vendor Category " max_length="40" name="x_sogs_vendor_requ_vendor_category" type="collection">
+        <element label="Vendor Category Classification" max_length="100" name="vendor_category_classification" type="string"/>
+        <element label="SAP Corporate Key Code" max_length="100" name="sap_corporate_key_code" type="string"/>
+    </element>
+</database>

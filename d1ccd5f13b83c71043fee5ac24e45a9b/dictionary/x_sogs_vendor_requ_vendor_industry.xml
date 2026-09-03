@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5807620e3bc38b1043fee5ac24e45af3" label="Vendor Industry " max_length="40" name="x_sogs_vendor_requ_vendor_industry" type="collection">
+        <element label="Vendor Industry " max_length="100" name="vendor_industry" type="string"/>
+    </element>
+</database>
