@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Vendor Master Data Request">93da03d63b0b0f1043fee5ac24e45a6b</catalog_item>
+        <catalog_variable>IO:d8f209400f5bc710c9f026e800d1b2a0</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-08 07:30:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>274345c00f5bc710c9f026e800d1b29e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>does_propelis_have_competitors_in_that_business_purpose_local_market</sys_name>
+        <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_274345c00f5bc710c9f026e800d1b29e</sys_update_name>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-08 07:30:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="If &quot;Do we have other vendors that currently provide these products / services?&quot; selected yes ">2a0381800f5bc710c9f026e800d1b2d3</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>does_propelis_have_competitors_in_that_business_purpose_local_market</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

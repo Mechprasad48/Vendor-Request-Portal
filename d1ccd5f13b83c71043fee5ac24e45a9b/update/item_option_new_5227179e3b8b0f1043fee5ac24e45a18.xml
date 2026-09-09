@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
-        <attributes>ref_auto_completer=AJAXTableCompleter,ref_ac_columns=company_number,ref_ac_columns_search=true</attributes>
+        <attributes/>
         <cat_item display_value="Vendor Master Data Request">93da03d63b0b0f1043fee5ac24e45a6b</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
@@ -31,7 +31,7 @@
         <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
-        <list_table/>
+        <list_table>x_sogs_vendor_requ_company_code</list_table>
         <lookup_dependent_question/>
         <lookup_label/>
         <lookup_price/>
@@ -85,7 +85,7 @@
         <sys_created_on>2026-09-03 07:47:58</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>5227179e3b8b0f1043fee5ac24e45a18</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Company Code</sys_name>
         <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
         <sys_policy/>
@@ -93,11 +93,11 @@
         <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
         <sys_update_name>item_option_new_5227179e3b8b0f1043fee5ac24e45a18</sys_update_name>
         <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
-        <sys_updated_on>2026-09-03 08:53:58</sys_updated_on>
+        <sys_updated_on>2026-09-08 09:10:39</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>18</type>
+        <type>21</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
