@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Request Type">ea1e8f923b4b0f1043fee5ac24e45a25</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-17 08:41:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>83c9673a47938b10e4cbba91516d433d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Vendor</sys_name>
+        <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
+        <sys_update_name>question_choice_83c9673a47938b10e4cbba91516d433d</sys_update_name>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-17 08:41:27</sys_updated_on>
+        <text>New Vendor</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=83c9673a47938b10e4cbba91516d433d"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>83c9673a47938b10e4cbba91516d433d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-17 08:41:37</sys_created_on>
+        <sys_id>d2e9eb3a47938b10e4cbba91516d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-17 08:41:37</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>83c9673a47938b10e4cbba91516d433d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-09-17 08:41:30</sys_created_on>
+        <sys_id>64e9eb3a47938b10e4cbba91516d4303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-09-17 08:41:30</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>83c9673a47938b10e4cbba91516d433d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
+        <sys_created_on>2026-09-17 08:41:37</sys_created_on>
+        <sys_id>1ae9eb3a47938b10e4cbba91516d432b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
+        <sys_updated_on>2026-09-17 08:41:37</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

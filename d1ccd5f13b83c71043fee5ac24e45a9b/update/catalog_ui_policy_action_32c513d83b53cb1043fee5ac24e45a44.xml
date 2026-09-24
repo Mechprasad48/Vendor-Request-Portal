@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="Vendor Master Data Request">93da03d63b0b0f1043fee5ac24e45a6b</catalog_item>
-        <catalog_variable>IO:8c154d880f5bc710c9f026e800d1b297</catalog_variable>
+        <catalog_variable>IO:c2c5018c0f5bc710c9f026e800d1b22a</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
@@ -11,23 +11,23 @@
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
-        <sys_created_on>2026-09-08 11:19:27</sys_created_on>
+        <sys_created_on>2026-09-09 12:49:14</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>2eb7f9080f970b10c9f026e800d1b2fd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>justification</sys_name>
+        <sys_id>32c513d83b53cb1043fee5ac24e45a44</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>additional_notes_request_description</sys_name>
         <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_2eb7f9080f970b10c9f026e800d1b2fd</sys_update_name>
+        <sys_update_name>catalog_ui_policy_action_32c513d83b53cb1043fee5ac24e45a44</sys_update_name>
         <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
-        <sys_updated_on>2026-09-17 07:29:40</sys_updated_on>
+        <sys_updated_on>2026-09-17 08:47:14</sys_updated_on>
         <table/>
         <ui_policy display_value="when request type is New vendor selected">8de6f1840f970b10c9f026e800d1b28a</ui_policy>
         <value/>
         <value_action>ignore</value_action>
-        <variable>justification</variable>
+        <variable>additional_notes_request_description</variable>
         <variable_set/>
         <visible>true</visible>
     </catalog_ui_policy_action>

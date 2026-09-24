@@ -3,29 +3,29 @@
         <create_roles/>
         <description/>
         <display_title>true</display_title>
-        <internal_name>requestor_information</internal_name>
+        <internal_name>vendor_information</internal_name>
         <layout>2across</layout>
         <name/>
-        <order>250</order>
+        <order>1000</order>
         <read_roles/>
         <set_attributes/>
         <sys_class_name>item_option_new_set</sys_class_name>
         <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
-        <sys_created_on>2026-09-08 11:29:00</sys_created_on>
+        <sys_created_on>2026-09-09 09:37:32</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>4dd971800fd70b10c9f026e800d1b27d</sys_id>
-        <sys_mod_count>13</sys_mod_count>
-        <sys_name>Requestor Information</sys_name>
+        <sys_id>37e96a980f5f8b10c9f026e800d1b2fc</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>Vendor Information</sys_name>
         <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
-        <sys_update_name>item_option_new_set_4dd971800fd70b10c9f026e800d1b27d</sys_update_name>
+        <sys_update_name>item_option_new_set_37e96a980f5f8b10c9f026e800d1b2fc</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2026-09-17 07:15:09</sys_updated_on>
-        <title>Requestor Information</title>
+        <sys_updated_on>2026-09-17 08:48:03</sys_updated_on>
+        <title>Vendor Information</title>
         <type>one_to_one</type>
-        <version>13</version>
+        <version>28</version>
         <write_roles/>
     </item_option_new_set>
 </record_update>

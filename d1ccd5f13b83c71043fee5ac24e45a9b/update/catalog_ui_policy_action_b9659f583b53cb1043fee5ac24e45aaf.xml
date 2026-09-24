@@ -11,20 +11,20 @@
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>rita.ramteke@infocenter.io</sys_created_by>
-        <sys_created_on>2026-09-08 11:19:27</sys_created_on>
+        <sys_created_on>2026-09-09 12:47:24</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>2eb7f9080f970b10c9f026e800d1b2fd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>b9659f583b53cb1043fee5ac24e45aaf</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>justification</sys_name>
         <sys_package display_value="Vendor Request Portal" source="x_sogs_vendor_requ">d1ccd5f13b83c71043fee5ac24e45a9b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Vendor Request Portal">d1ccd5f13b83c71043fee5ac24e45a9b</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_2eb7f9080f970b10c9f026e800d1b2fd</sys_update_name>
+        <sys_update_name>catalog_ui_policy_action_b9659f583b53cb1043fee5ac24e45aaf</sys_update_name>
         <sys_updated_by>rita.ramteke@infocenter.io</sys_updated_by>
-        <sys_updated_on>2026-09-17 07:29:40</sys_updated_on>
+        <sys_updated_on>2026-09-17 08:46:46</sys_updated_on>
         <table/>
-        <ui_policy display_value="when request type is New vendor selected">8de6f1840f970b10c9f026e800d1b28a</ui_policy>
+        <ui_policy display_value="when request type is Vendor update">f535d3583b53cb1043fee5ac24e45a1f</ui_policy>
         <value/>
         <value_action>ignore</value_action>
         <variable>justification</variable>
